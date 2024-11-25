@@ -11,10 +11,10 @@ This project features a login and signup interface, along with pages for passwor
 
 ## Features
 
-- Login Page: Allows users to log into their accounts.
-- Signup Page: New users can create accounts.
-- Forgot Password Page: Users can request a password reset.
-- Reset Password Page: Users can set a new password.
+- **Login Page:** Allows users to log into their accounts.
+- **Signup Page:** New users can create accounts.
+- **Forgot Password Page:** Users can request a password reset.
+- **Reset Password Page:** Users can set a new password.
 
 
 ## Password Validation
@@ -57,15 +57,9 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/mannavlakhab/login.git
 ```
-
-2. Go to the project directory
-
-```bash
-  cd my-project
-```
-3. Open the index.html file in your web browser.
+2. Open the index.html file in your web browser.
 ## License
 
 [MIT LICENSE](https://github.com/mannavlakhab/login/blob/main/LICENSE)
